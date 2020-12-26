@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int num;
+int dum;
+int main()
+{
+	cout<<"Enter first number : ";
+	cin>>num;
+	cout<<"Enter second number : ";
+	cin>>dum;
+	cout<<"Product = "<<num*dum;
+}
